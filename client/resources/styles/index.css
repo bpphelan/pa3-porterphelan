@@ -1,0 +1,40 @@
+body {
+    background-color: #F4F4F4;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  table {
+    background-color: #FFFFFF;
+  }
+  
+  th, td {
+    text-align: center;
+  }
+  
+  th {
+    background-color: #049a60;
+    color: #010101;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .submit-btn {
+    background-color: #049a60;
+    border-color: #049a60;
+  }
+  
+  .submit-btn:hover {
+    background-color: #049a60;
+    border-color: #049a60;
+  }
+  
+  h1 {
+    color: #049a60;
+  }
+  
+  
